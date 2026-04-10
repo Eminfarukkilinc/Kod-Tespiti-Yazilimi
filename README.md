@@ -4,6 +4,6 @@ Bu proje "Veri-Toplayici-Bot" ve "Ai-Veri-Uretici" yazılımları tarafından el
 
 Ana proje: https://github.com/Eminfarukkilinc/Kod-Tespiti-Yazilimi
 
-Github içinden örnek kod toplayıcı yazılım https://github.com/Eminfarukkilinc/Veri-Toplayici-Bot 
+Github içinden örnek kod toplayıcı yazılım: https://github.com/Eminfarukkilinc/Veri-Toplayici-Bot 
 
-Yapay zeka stili kod üretici yazılım https://github.com/Eminfarukkilinc/Ai-Veri-Uretici 
+Yapay zeka stili kod üretici yazılım: https://github.com/Eminfarukkilinc/Ai-Veri-Uretici 
